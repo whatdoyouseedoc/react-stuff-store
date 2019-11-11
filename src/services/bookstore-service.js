@@ -4,14 +4,19 @@ export default class BookstoreServvice {
         return [
             {
                 id: 1,
-                title: 'Production-Ready Microservices',
-                author: 'Susan J. Fowler'
+                title: 'The Adventures of Tom Sawyer',
+                author: 'Mark Twain'
             },
             {
                 id: 2,
-                title: 'Released it!',
-                author: 'Michael T. Nygard'
-            }
+                title: 'The Long Walk',
+                author: 'Richard Bachman'
+            },
+            {
+                id: 3,
+                title: 'League of Legends',
+                author: 'Riot Games'
+            },
         ];
     }
     
